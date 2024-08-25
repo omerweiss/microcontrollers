@@ -1,2 +1,10 @@
 esp32 based project.
 a wheeled arm that can be accessed from the network and open the door if it is locked from inside.
+the robot should know how to:
+check which lock is locked (upper or key)
+open the upper lock
+remove the key if it is inserted
+open the door with the key.
+slide the key under the door.
+locate fallen key on the floor.
+wake people sleeping inside.

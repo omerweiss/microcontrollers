@@ -1,4 +1,4 @@
-esp32 based project.
+esp32 or raspberry pi pico W based project.
 a wheeled arm that can be accessed from the network and open the door if it is locked from inside.
 the robot should know how to:
 check which lock is locked (upper or key)
